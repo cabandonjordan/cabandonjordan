@@ -1,4 +1,15 @@
-# 🕹️ LEVEL 3: CABANDON_JC
+# 🕹️ LEVEL 3: CABANDON_OS // ARCADE_MODE
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=120&section=header&text=JORDAN%20A.%20CABANDON&fontSize=50&fontAlignY=40&fontColor=ffff00&animation=twinkling" />
+</div>
+
+<div align="center">
+  <img src="https://moe-counter.glitch.me/get/@cabandonjordan?theme=gelbooru" alt="Visit Counter" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=FFFF00&center=true&vCenter=true&width=600&lines=PAC-MAN+IS+EATING+THE+BUGS...;WAKA+WAKA+WAKA+WAKA;LOADING+FULLSTACK_ARCHITECT..." />
+  <br />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600" />
+</div>
 
 ### 👾 PLAYER_PROFILE
 - **NAME:** Jordan A. Cabandon
@@ -8,46 +19,29 @@
 
 ---
 
-### 🎮 GAME BOARD: TECH_STACK
+### 🎮 THE POWER-UP SHOP (TECH_STACK)
 
-#### [ 🕹️ LOGIC_PROCESSING ]
+#### [ 🕹️ LOGIC_CORE ]
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" title="C"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" title="C++"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" title="C#"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" title="Arduino"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,arduino,py,js,ts&perline=7" />
+  </a>
 </p>
 
-#### [ 🖼️ INTERFACE_RENDERING ]
+#### [ 🖼️ INTERFACE_MODULES ]
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" title="React"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" title="Flutter"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" title="Tailwind"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" title="Next.js"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,figma&perline=5" />
+  </a>
 </p>
 
 #### [ 💾 DATA & INTELLIGENCE ]
 <p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,tensorflow&perline=4" />
+  </a>
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" height="48" />
 </p>
-
----
-
-### 🍒 POWER-UP MODE
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
