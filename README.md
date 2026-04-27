@@ -7,12 +7,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF003C&center=true&vCenter=true&width=600&lines=Full-Stack+Striver;Optimistic+Developer;Architecting+high-quality+systems" alt="Typing SVG" />
   </p>
 
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/EliasGcf/EliasGcf/main/pacman.gif" width="600" />
-  </p>
-
   <br/>
-  <hr style="border: 1px solid #FF003C; width: 50%;">
+  <img src="https://raw.githubusercontent.com/EliasGcf/EliasGcf/main/pacman.gif" width="600" />
   <br/>
 
   <h3>ABOUT ME</h3>
@@ -24,7 +20,7 @@
   </p>
 
   <br/>
-  <hr style="border: 1px solid #FF003C; width: 50%;">
+  <img src="https://raw.githubusercontent.com/EliasGcf/EliasGcf/main/pacman.gif" width="600" />
   <br/>
 
   <h3>COMMUNICATION CHANNELS</h3>
@@ -43,7 +39,7 @@
   </p>
 
   <br/>
-  <hr style="border: 1px solid #FF003C; width: 50%;">
+  <img src="https://raw.githubusercontent.com/EliasGcf/EliasGcf/main/pacman.gif" width="600" />
   <br/>
 
   <h3>TECH STACK</h3>
@@ -52,20 +48,5 @@
       <img src="https://skillicons.dev/icons?i=c,cpp,cs,arduino,py,js,ts,react,nextjs,flutter,tailwind,nodejs,firebase,supabase,tensorflow,git,vscode,github&theme=dark&perline=9" />
     </a>
   </p>
-
-  <br/>
-  <hr style="border: 1px solid #FF003C; width: 50%;">
-  <br/>
-
-  <h3>SYSTEM STATS</h3>
-  <p align="center">
-    <a href="https://github.com/cabandonjordan">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=cabandonjordan&show_icons=true&hide_border=true&bg_color=050505&title_color=FF003C&icon_color=FF003C&text_color=ffffff" />
-    </a>
-  </p>
-
-  <br/>
-
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=FF003C&height=100&section=footer" />
 
 </div>
