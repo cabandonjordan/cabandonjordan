@@ -24,7 +24,7 @@
 #### [ 🕹️ LOGIC_CORE ]
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,arduino,py,js,ts&perline=7" />
+    <img src="https://skillicons.dev/icons?i=c,cs,py,js,ts&perline=7" />
   </a>
 </p>
 
