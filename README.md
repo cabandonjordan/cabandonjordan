@@ -40,7 +40,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,tensorflow&perline=4" />
   </a>
-  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" height="48" />
 </p>
 
 ---
