@@ -31,24 +31,24 @@
 
   <h3>SYSTEM STATS</h3>
 
-  <!-- 1. General Stats Card -->
+  <!-- 1. General Stats Card (Routed through the Shion Mirror) -->
   <p align="center">
     <a href="https://github.com/cabandonjordan">
-      <img src="https://github-readme-stats.vercel.app/api?username=cabandonjordan&show_icons=true&hide_border=true&bg_color=050505&title_color=FF003C&icon_color=FF003C&text_color=ffffff&cache_seconds=86400" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.shion.dev/api?username=cabandonjordan&show_icons=true&hide_border=true&bg_color=050505&title_color=FF003C&icon_color=FF003C&text_color=ffffff" alt="GitHub Stats" />
     </a>
   </p>
 
-  <!-- 2. GitHub Streak Card (The Fire Icon Card) -->
+  <!-- 2. GitHub Streak Card -->
   <p align="center">
     <a href="https://github.com/cabandonjordan">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=cabandonjordan&theme=dark&hide_border=true&background=050505&ring=FF003C&fire=FF003C&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF003C&sideLabels=ffffff&dates=888888&stroke=050505" alt="GitHub Streak" />
     </a>
   </p>
 
-  <!-- 3. Top Languages Card -->
+  <!-- 3. Top Languages Card (Routed through the Shion Mirror) -->
   <p align="center">
     <a href="https://github.com/cabandonjordan">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabandonjordan&layout=compact&hide_border=true&bg_color=050505&title_color=FF003C&text_color=ffffff&cache_seconds=86400" alt="Top Languages" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=cabandonjordan&layout=compact&hide_border=true&bg_color=050505&title_color=FF003C&text_color=ffffff" alt="Top Languages" />
     </a>
   </p>
 
