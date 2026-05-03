@@ -30,11 +30,26 @@
   <hr style="border: 1px solid #FF003C; width: 60%; margin: 15px auto;">
 
   <h3>SYSTEM STATS</h3>
-  <a href="https://github.com/cabandonjordan">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=cabandonjordan&show_icons=true&hide_border=true&bg_color=050505&title_color=FF003C&icon_color=FF003C&text_color=ffffff" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/cabandonjordan">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabandonjordan&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=FF003C&text_color=ffffff" alt="Top Languages" />
-  </a>
+
+  <!-- 1. General Stats Card -->
+  <p align="center">
+    <a href="https://github.com/cabandonjordan">
+      <img src="https://github-readme-stats.vercel.app/api?username=cabandonjordan&show_icons=true&hide_border=true&bg_color=050505&title_color=FF003C&icon_color=FF003C&text_color=ffffff&cache_seconds=86400" alt="GitHub Stats" />
+    </a>
+  </p>
+
+  <!-- 2. GitHub Streak Card (The Fire Icon Card) -->
+  <p align="center">
+    <a href="https://github.com/cabandonjordan">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cabandonjordan&theme=dark&hide_border=true&background=050505&ring=FF003C&fire=FF003C&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF003C&sideLabels=ffffff&dates=888888&stroke=050505" alt="GitHub Streak" />
+    </a>
+  </p>
+
+  <!-- 3. Top Languages Card -->
+  <p align="center">
+    <a href="https://github.com/cabandonjordan">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabandonjordan&layout=compact&hide_border=true&bg_color=050505&title_color=FF003C&text_color=ffffff&cache_seconds=86400" alt="Top Languages" />
+    </a>
+  </p>
 
 </div>
