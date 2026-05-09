@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi, I'm Jordan A. Cabandon</h1>
-  <h3>A 3rd Year Computer Engineering Student @ CIT-U</h3>
+  <h3>A Computer Engineering Student @ CIT-U</h3>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF003C&center=true&vCenter=true&width=600&lines=Full-Stack+Striver;Optimistic+Developer;Architecting+high-quality+systems" alt="Typing SVG" />
 
